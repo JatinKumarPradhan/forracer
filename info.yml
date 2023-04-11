@@ -1,0 +1,1 @@
+client = MongoClient('mongodb+srv://jatinkumarpradhan354:jatinkumarpradhan@cluster0.nkn3qfn.mongodb.net/?retryWrites=true&w=majority')
